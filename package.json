@@ -18,7 +18,8 @@
     "build": "tsc && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "release": "pnpm build && bumpp && pnpm publish --no-git-checks"
+    "release": "pnpm build && bumpp && pnpm publish --no-git-checks",
+    "typecheck": "tsc"
   },
   "dependencies": {
     "react": "^18.2.0",
