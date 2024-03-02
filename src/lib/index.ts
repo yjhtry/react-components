@@ -1,3 +1,3 @@
-import ProgressBar from '../components/ProgressBar'
+import NProgressBar from '../components/NProgressBar'
 
-export { ProgressBar }
+export { NProgressBar }
